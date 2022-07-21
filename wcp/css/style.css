@@ -1,0 +1,39 @@
+/* STYLE FOR NAVBAR */
+.homenav {
+  width: 100% !important;
+  position: absolute !important;
+  z-index: 10;
+  background: rgba(0, 0, 0, 0.5) !important;
+}
+
+/* STYLE FOR CAROUSEL */
+.image-slider {
+  height: 650px !important;
+}
+
+.carousel-item img {
+  opacity: 0.5;
+}
+
+.carousel-back {
+  background-color: black !important;
+}
+
+.navbar-toggler {
+  background-color: white !important;
+}
+
+.background-jumbotron {
+  background-color: white !important;
+}
+
+/* STYLE FOR CLIENT */
+.item img {
+  height: 140px !important;
+  border: 1px solid black;
+}
+
+/* STYLE FOR FOOTER */
+.footer {
+  padding: 40px;
+}
